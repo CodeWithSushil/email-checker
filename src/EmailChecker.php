@@ -1,4 +1,5 @@
 <?php
+namespace EmailChecker;
 
 class EmailChecker
 {
