@@ -9,7 +9,7 @@ require "vendor/autoloader.php";
 
 try {
   $email = "example@example.com";
-  $validator = new EmailValidator($email);
+  $validator = new EmailChecker($email);
   $results = $validator->validate();
 
   // Display results as a string 
