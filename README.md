@@ -4,6 +4,7 @@
 ### `Usage`
 ```php
 <?php
+use EmailChecker\EmailChecker;
 
 require "vendor/autoloader.php";
 
