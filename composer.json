@@ -27,5 +27,8 @@
         "allow-plugins": {
             "pestphp/pest-plugin": true
         }
+    },
+    "require": {
+        "phpmailer/dkimvalidator": "^0.3.0"
     }
 }
